@@ -43,13 +43,15 @@ Computer Science student & aspiring <b>AI / Full-Stack JavaScript Developer</b> 
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/aziz-mabrouk-7a5497204/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+
+  <a href="mailto:azizmabrouk184@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
 </div>
+
 
 ###
 
